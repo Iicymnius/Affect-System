@@ -34,23 +34,23 @@
 //add above;
 
 #ifdef AFFECT_SYSTEM
-	AFF_YELLOW, // xx
-	AFF_BROWN, // xx
-	AFF_GREY, // xx
-	AFF_ORANGE, // xx
-	AFF_PINK, // xx
-	AFF_PURPLE, // xx
-	AFF_TURQUOISE, // xx
-	AFF_BLUE, // xx
-	AFF_RED, // xx
-	AFF_ELR, // xx
-	AFF_ELY, // xx
-	AFF_ELG, // xx
-	AFF_ELB, // xx
-	AFF_ELP, // xx
-	AFF_ELW, // xx
-	AFF_TORY, // xx
-	AFF_TORB, // xx
-	AFF_TORR, // xx
-	AFF_TORG, // xx
+	AFF_YELLOW,// xx
+	AFF_BROWN,// xx
+	AFF_GREY,// xx
+	AFF_ORANGE,// xx
+	AFF_PINK,// xx
+	AFF_PURPLE,// xx
+	AFF_TURQUOISE,// xx
+	AFF_BLUE,// xx
+	AFF_RED,// xx
+	AFF_ELR,// xx
+	AFF_ELY,// xx
+	AFF_ELG,// xx
+	AFF_ELB,// xx
+	AFF_ELP,// xx
+	AFF_ELW,// xx
+	AFF_TORY,// xx
+	AFF_TORB,// xx
+	AFF_TORR,// xx
+	AFF_TORG,// xx
 #endif
